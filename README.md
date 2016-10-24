@@ -1,4 +1,4 @@
 * Avro
 * Hornet
 * Harrier
-git is easy. git is fun. thanks linus
+* git is easy. git is fun. thanks linus
